@@ -1,6 +1,6 @@
 # Offline Alarm
 Authors: Roman Liu, Victor Yu\
-Contact: romanliu1220@gmail.com, 518victoryu@protonmail.com\
+Contact: romanliu1220@gmail.com, 518victoryu@protonmail.com
 # alarm.py
 Gives text and slack notification when number of offline exceeds 120% of number of offline 30 minutes ago.\
 Logs Offline, 0 Hashrate, 0 Hahsrate IP boxes in slack.\
