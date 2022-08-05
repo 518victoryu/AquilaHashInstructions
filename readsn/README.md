@@ -1,4 +1,4 @@
-# Offline Alarm
+# SN Reader
 Authors: Roman Liu, Victor Yu\
 Contact: romanliu1220@gmail.com, 518victoryu@protonmail.com\
 # readsn.py
